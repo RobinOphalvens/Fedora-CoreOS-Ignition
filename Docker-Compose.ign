@@ -140,7 +140,7 @@
     "links": [
       {
         "path": "/etc/localtime",
-        "target": "../usr/share/zoneinfo/America/New_York"
+        "target": "../usr/share/zoneinfo/Europe/Berlin"
       },
       {
         "path": "/etc/systemd/system/multi-user.target.wants/unbound.service",
